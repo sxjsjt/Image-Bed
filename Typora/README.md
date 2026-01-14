@@ -1,1 +1,1 @@
-Typora专用图床路径
+自建PicList图床
